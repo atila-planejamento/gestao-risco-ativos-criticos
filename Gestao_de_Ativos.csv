@@ -1,0 +1,11 @@
+TAG (COD),EQUIPAMENTO,CRITICIDADE,ULTIMA CALIBRAÇÃO,PERIODICIDADE MESES,CUSTO PARADA (R$/H),PROXIMA CALIBRAÇÃO,VALOR CALIBRAÇÃO (R$),JUSTIFICATICA DO CALIBRAMENTO,STATUS
+MAN-001,Manômetro de pressão,Alta,10/01/2025,6,R$ 5000,10/07/2025,"R$ 450,00",Falha pode parar uma linha de injeção crítica.,VENCIDO
+VAL-012,Valvula de Segurança,Alta,15/01/2026,12,"R$ 15.000,00",15/01/2027,"R$ 1.200,00","Equipamento de proteção; sem ele, a unidade não opera por segurança.",OK
+MULT-05,Multimetro Digital FLuke,Media,05/03/2026,12,"R$ 15.000,00",05/03/2027,"R$ 1.200,00",Essencial para diagnósticos elétricos rápidos.,OK
+SEN-09,Detector de Gás ,Media,12/04/2026,12,"R$ 1.500,00",12/04/2027,"R$ 150,00","Item crítico de SMS; sem ele, o trabalho a quente é suspenso.",OK
+TER-02,Termômetro Infravermelho,Alta,20/01/2026,12,"R$ 8.000,00",20/01/2027,"R$ 500,00",Usado em inspeções preditivas simples.,OK
+MEG-01,Megômetro Isolamento,Media,10/05/2026,12,"R$ 500,00",10/05/2027,"R$ 50,00",Identifica falhas em motores antes que queimem.,OK
+TRA-04,Transmissor de nível,Alta,15/06/2026,12,"R$ 2.500,00",15/06/2027,"R$ 250,00","Se falhar, causa transbordamento ou parada de bomba por nível baixo.",OK
+ALI-03,Alicate Amperîmetro,Baixa,22/07/2026,12,"R$ 1.000,00",22/07/2027,"R$ 100,00",Ferramenta básica para o eletricista de manutenção.,OK
+FLO-08,Medidor de vazão,Alta,30/08/2025,12,"R$ 12.000,00",30/08/2026,"R$ 1.200,00",Crucial para o faturamento e controle de produção.,VENCIDO
+BAL-01,Balança de Precisão,Baixa,14/03/2026,12,"R$ 200,00",14/03/2027,"R$ 20,00",Usada em laboratórios de fluidos onshore,OK
